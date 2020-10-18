@@ -1,0 +1,2 @@
+#Deny the templates from being opened raw
+Deny from all

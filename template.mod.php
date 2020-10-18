@@ -3,6 +3,7 @@
      * Templating module for OliveWeb
      * 
      * @author Luke Bullard
+     * @version 1.1
      */
 
     //make sure we are included securely
